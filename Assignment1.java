@@ -1,6 +1,5 @@
 // Assignment #: 1
 //         Name: Joseph Kharzo
-//    StudentID: 1218555299
 //      Lecture: TTH 1:30-2:45pm
 //   Time Spent: 10 minutes
 //  Description: This class reads an integer from a keyboard and prints it out
